@@ -5,6 +5,8 @@ A simple browser add-on that makes your day more mindful.
 ### Requirements
 * A modern browser like Firefox or Chrome
 
+### Screenshot
+![Default screen](https://addons.cdn.mozilla.net/user-media/previews/full/194/194614.png "Example quote")
 
 ## Usage
 
